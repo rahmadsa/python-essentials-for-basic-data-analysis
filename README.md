@@ -32,4 +32,4 @@
 3. [Youtube](./README.md)
 4. Facebook
 5. Instagram
-6 [Case Study](./README.md)
+6. [Case Study](./README.md)
