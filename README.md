@@ -6,8 +6,8 @@
 1. [Data Frame](./DataFrame.md)
 2. [Java Data Frame](./JavaDataFrame.md)
 #### CHAPTER 2 : Getting Data Into and Out of Java
-A. Exception Handling
-B. File Format
+1. Exception Handling
+2. File Format
    1. CSV
    2. Excel
    3. Pdf
