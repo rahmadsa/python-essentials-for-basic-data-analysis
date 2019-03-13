@@ -17,14 +17,14 @@
    1. [Cleaning Data](./README.md)
    2. [Creating New Var](./README.md)
    3. [Organizing Data](./README.md)
-   4. [Agregat Statistik Analysis Computing]](./README.md)
-   5. [Case Study]](./README.md)
+   4. [Agregat Statistik Analysis Computing](./README.md)
+   5. [Case Study](./README.md)
 4. [Mid Test](./README.md)
 #### CHAPTER 3 : Finding Meaning
 1. [Sorting](./README.md)
 2. [Correlation](./README.md)
-3. [Regression]](./README.md)
-4. [Pivot Table]](./README.md)
+3. [Regression](./README.md)
+4. [Pivot Table](./README.md)
 5. [Visualizing Data](./README.md)
 #### CHAPTER 4: Social Media Connection
 1. Twitter
