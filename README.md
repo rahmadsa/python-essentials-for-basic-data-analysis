@@ -1,35 +1,20 @@
-## Basic Data Analysis In-Java
+## Essential Python Programming For Basic Data Analysis
 
 ### Table of Contents
 
-#### CHAPTER 1 : Introduction
-1. [Data Frame](./DataFrame.md)
-2. [Java Data Frame](./JavaDataFrame.md)
-#### CHAPTER 2 : Getting Data Into and Out of Java
-1. [Exception Handling](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd Meeting
-2. [File Format](./README.md)
-   1. [CSV](./README.md)
-   2. [Excel](./README.md)
-   3. [Pdf](./README.md)
-   4. [SQL](./README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4th Meeting   
-   5. [JSON](./README.md)
-3. [Prepairing Data](./README.md)
-   1. [Cleaning Data](./README.md)
-   2. [Creating New Var](./README.md)
-   3. [Organizing Data](./README.md)
-   4. [Agregat Statistik Analysis Computing](./README.md)
-   5. [Case Study](./README.md)
-4. [Mid Test](./README.md)
-#### CHAPTER 3 : Finding Meaning
-1. [Sorting](./README.md)
-2. [Correlation](./README.md)
-3. [Regression](./README.md)
-4. [Pivot Table](./README.md)
-5. [Visualizing Data](./README.md)
-#### CHAPTER 4: Social Media Connection
-1. Twitter
-2. [Wikipedia](./README.md)
-3. [Youtube](./README.md)
-4. Facebook
-5. Instagram
-6. [Case Study](./README.md)
+#### [Day    1 : Introducing Python Programming](./README.md)
+#### [Day    2 : Python Basics](./README.md)
+#### [Day    3 : Flow Control](./README.md)
+#### [Day    4 : Function](./README.md)
+#### [Day    5 : Lists, Dictionaries and Structuring Data ](./README.md)
+#### [Day    6 : Manipulating Strings](./README.md)
+#### [Day    7:  Case Study I](./README.md)
+#### [Day    8 : Mid Test](./README.md)
+#### [Day    9 : Classes and Objects](./README.md)
+#### [Day  10 : Inheritance](./README.md)
+#### [Day  11 :Preparing Data](./README.md)
+#### [Day  12 : Finding the Meaning](./README.md)
+#### [Day  13 : Visualizing Data](./README.md)
+#### [Day  14 : Implement Polymorphism](./README.md)
+#### [Day  15 : Case Study II](./README.md)
+#### [Day  16:  Final Test](./README.md)
