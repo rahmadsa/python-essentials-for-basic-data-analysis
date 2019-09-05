@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-#### [Day    1 : Introducing Python Programming](./README.md)
+#### [Day    1 : Introducing Python Programming](./1_intro_python.ipynb)
 #### [Day    2 : Python Basics](./README.md)
 #### [Day    3 : Flow Control](./README.md)
 #### [Day    4 : Function](./README.md)
